@@ -16,13 +16,11 @@ I am a student and web designer who loves to create beautiful designs and experi
 ![](https://github-profile-trophy.vercel.app/?username=luciferx1010&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=luciferx1010)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=darklegionx1010)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="http://apimeme.com/meme?meme=Advice-Dog" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luciferx1010&icon=5&color=0)](https://visitcount.itsvg.in)
