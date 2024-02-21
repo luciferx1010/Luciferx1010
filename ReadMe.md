@@ -22,7 +22,7 @@ I am a student and web designer who loves to create beautiful designs and experi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://meme-api.com/gimme" width="512px"/>
+<img src="http://apimeme.com/meme?meme=Advice-Dog" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luciferx1010&icon=5&color=0)](https://visitcount.itsvg.in)
