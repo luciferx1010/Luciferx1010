@@ -1,6 +1,6 @@
 ![snake gif](https://github.com/luciferx1010/luciferx1010/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&width=435&lines=Hello!+Welcome+to+my+Github+profile.;I'm+Atharv.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&width=435&lines=Hello!+Welcome+to+my+Github.;I'm+Atharv.)](https://git.io/typing-svg)
 
  🌱 I’m currently learning **Full stack development.** 
  
